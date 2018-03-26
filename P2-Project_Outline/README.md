@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is called Reader Level. The idea is that a user can come to the site and enter some text of a book they would like to get the reader level to. The program will break all text into sentences and then into words. the words will then be split into sylabales. The crux is that the program will then run all the info through an algorithim ans spit out a reader level. 
+
 ### Features
-Include Features here
+Login 
+show previousouly Leveled books
+show books that are popular subject with level
+level a book
+React setup
+Heroku live
+
 ### Technologies
-Include Technologies here
+React 
+Mongo
+Node Express
+Heroku
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Lots of react and node calls, and how to make use of the api for finding word sylables.
